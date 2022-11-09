@@ -2,6 +2,6 @@ Ema ima x pobjeda i y poraza!
 Dajana ima z pobjeda i n poraza!
 
 x . .
-o o .
+o o x
 x . .
 
